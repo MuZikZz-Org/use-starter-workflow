@@ -1,1 +1,2 @@
 # use-starter-workflow
+trigger
